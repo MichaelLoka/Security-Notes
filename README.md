@@ -1,6 +1,6 @@
-# Security Knowledge Repository
+# Security Documentation
 
-Welcome to the **Security Knowledge Repository**! This repository serves as a comprehensive and organized collection of documentation and notes from various security courses and training sessions undertaken by [Your Name]. Within this repository, you will find a wealth of valuable information pertaining to the world of cybersecurity, designed to enhance our understanding of modern-day threats and defense strategies.
+Welcome to the **Security Documentation**! This repository serves as a comprehensive and organized collection of documentation and notes from various security courses and training sessions undertaken by [Your Name]. Within this repository, you will find a wealth of valuable information pertaining to the world of cybersecurity, designed to enhance our understanding of modern-day threats and defense strategies.
 
 ## Objective:
 
